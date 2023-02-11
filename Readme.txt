@@ -1,0 +1,1 @@
+La idea del proyecto es establecer una grafica con la cantidad de propuestas culturales que tienen todas las provincias en Argentina. Para ello se uso Python y las librerias Pandas y Matplotlib. 
